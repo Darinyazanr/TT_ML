@@ -1,4 +1,8 @@
 xiugai
+<<<<<<< HEAD
 haha
 hehe
 test
+=======
+haha
+>>>>>>> parent of 7e7ef0a... Merge pull request #4 from Darinyazanr/tongtong
