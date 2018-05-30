@@ -1,0 +1,9 @@
+TrainModel Start!
+交叉验证开始
+/home/jq/opt/python3.6.2/lib/python3.6/site-packages/sklearn/ensemble/forest.py:497: UserWarning: class_weight presets "balanced" or "balanced_subsample" are not recommended for warm_start if the fitted data differs from the full dataset. In order to use "balanced" weights, use compute_class_weight("balanced", classes, y). In place of y you can use a large enough sample of the full training set target to properly estimate the class frequency distributions. Pass the resulting weights as the class_weight parameter.
+  warn('class_weight presets "balanced" or "balanced_subsample" are '
+/home/jq/opt/python3.6.2/lib/python3.6/site-packages/sklearn/ensemble/forest.py:497: UserWarning: class_weight presets "balanced" or "balanced_subsample" are not recommended for warm_start if the fitted data differs from the full dataset. In order to use "balanced" weights, use compute_class_weight("balanced", classes, y). In place of y you can use a large enough sample of the full training set target to properly estimate the class frequency distributions. Pass the resulting weights as the class_weight parameter.
+  warn('class_weight presets "balanced" or "balanced_subsample" are '
+交叉验证结果: [0.65743199 0.65419897 0.65343672 0.65572349 0.65764227]
+交叉验证结束
+TrainModel Finish!
